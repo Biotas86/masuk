@@ -1,0 +1,1 @@
+document.getelEmentById("toggle")addEventListener("click",Function(){document.getelEmentByTagName}('body')[0].classlist.toggle ("dark-theme");})
